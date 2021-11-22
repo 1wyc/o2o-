@@ -1,0 +1,66 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/goodsdetail/goodsdetail",
+          "pathName": "pages/goodsdetail/goodsdetail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/scdd/scdd",
+          "pathName": "pages/scdd/scdd",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/user",
+          "pathName": "pages/user/user",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/yue/yue",
+          "pathName": "pages/yue/yue",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xiaofei/xiaofei",
+          "pathName": "pages/xiaofei/xiaofei",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/chongzhi/chongzhi",
+          "pathName": "pages/chongzhi/chongzhi",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/ziliao/ziliao",
+          "pathName": "pages/ziliao/ziliao",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/order/order",
+          "pathName": "pages/order/order",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

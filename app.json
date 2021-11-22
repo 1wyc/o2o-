@@ -1,0 +1,46 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/order/order",
+    "pages/user/user",
+    "pages/goodsdetail/goodsdetail",
+    "pages/scdd/scdd",
+    "pages/yue/yue",
+    "pages/xiaofei/xiaofei",
+    "pages/chongzhi/chongzhi",
+    "pages/ziliao/ziliao"
+        
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "o2o商城",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "/icons/index1.png",
+      "selectedIconPath": "/icons/index2.png"
+    },{
+      "pagePath": "pages/order/order",
+      "text": "订单",
+      "iconPath": "/icons/order1.png",
+      "selectedIconPath": "/icons/order2.png"
+
+    },{
+      "pagePath": "pages/user/user",
+      "text": "账户",
+      "iconPath": "/icons/user1.png",
+      "selectedIconPath": "/icons/user2.png"
+    }],
+      "selectedColor": "#FFC0CB"
+ 
+
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
